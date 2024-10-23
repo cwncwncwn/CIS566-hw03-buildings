@@ -4,6 +4,8 @@
 In this project, I have used Houdini to create a multi-level building generator.
 
 ## Overview 
+### [Video Demo](https://youtu.be/ynshhT_9e9U)
+
 Here is a screenshot of my procedural building:
 ![](imgs/procedural_building.png)
 
