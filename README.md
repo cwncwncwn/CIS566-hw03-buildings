@@ -44,6 +44,6 @@ Door
 
 For the doors, the users could toggle between horizontal style and vertical scale, as well as adjust the scale and division.
 
-Horizontal Style             |  Vertical Style
+Vertical Style             |  Horizontal Style
 :-------------------------:|:-------------------------:
 ![](imgs/horizontal_door.png)  |  ![](imgs/vertical_door.png)
